@@ -2,32 +2,32 @@
 
 * [♥️ Welcome](README.md)
 
-## Introduction
+<!-- ## Introduction -->
 
-* [👀 Vision](introduction/vision.md)
-* [👋 Protocol overview](introduction/protocol-overview.md)
-* [🧠 Understanding Stabilis](introduction/understanding-stabilis.md)
-* [❗ Dangers](introduction/dangers.md)
+<!-- * [👀 Vision](introduction/vision.md) -->
+<!-- * [👋 Protocol overview](introduction/protocol-overview.md) -->
+<!-- * [🧠 Understanding Stabilis](introduction/understanding-stabilis.md) -->
+<!-- * [❗ Dangers](introduction/dangers.md) -->
 
-## Website
+<!-- ## Website -->
 
-* [🌟 Quick start guide](website/quick-start-guide.md)
-* [💱 Swap](website/swap.md)
-* [💰 Borrow](website/borrow.md)
-* [📊 Manage loans](website/manage-loans.md)
-* [🤹 Liquidations](website/liquidations.md)
+<!-- * [🌟 Quick start guide](website/quick-start-guide.md) -->
+<!-- * [💱 Swap](website/swap.md) -->
+<!-- * [💰 Borrow](website/borrow.md) -->
+<!-- * [📊 Manage loans](website/manage-loans.md) -->
+<!-- * [🤹 Liquidations](website/liquidations.md) -->
 
-## Tokens
+<!-- ## Tokens -->
 
-* [🕺 STAB](tokens/stab.md)
-* [🤽 LPSTAB](tokens/lpstab.md)
-* [🪙 ILIS](tokens/ilis.md)
+<!-- * [🕺 STAB](tokens/stab.md) -->
+<!-- * [🤽 LPSTAB](tokens/lpstab.md) -->
+<!-- * [🪙 ILIS](tokens/ilis.md) -->
 
-## Miscellaneous
+<!-- ## Miscellaneous -->
 
-* [❓ FAQ](miscellaneous/faq.md)
-* [➗ System parameters](miscellaneous/system-parameters.md)
-* [💹 STAB interest rate](miscellaneous/stab-interest-rate.md)
+<!-- * [❓ FAQ](miscellaneous/faq.md) -->
+<!-- * [➗ System parameters](miscellaneous/system-parameters.md) -->
+<!-- * [💹 STAB interest rate](miscellaneous/stab-interest-rate.md) -->
 
 ## Stabilis beta phase
 
