@@ -6,7 +6,7 @@ description: >-
 
 # 🐞 Acknowledged bug reports
 
-**Found a bug that isn't listed yet? Send it in** [**here**](../website/borrow.md)**!**
+**Found a bug that isn't listed yet? Send it in** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdh4-J6LsVaROk1C3GwkSRg2oqTvdmEGUWOUFmNd4oX2jI0Tg/viewform)**!**
 
 Acknowledged bugs:
 

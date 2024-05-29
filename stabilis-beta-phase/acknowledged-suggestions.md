@@ -6,7 +6,7 @@ description: >-
 
 # 🤝 Acknowledged suggestions
 
-**Have a suggestion that isn't listed yet? Send it in** [**here**](../website/borrow.md)**!**
+**Have a suggestion that isn't listed yet? Send it in** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSclpVFo6XX\_MQsLKIul7UzARzdwcfiUeonHDB8X6jU4iqVTiw/viewform)**!**
 
 Acknowledged suggestions:
 
