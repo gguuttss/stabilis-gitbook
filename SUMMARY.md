@@ -2,12 +2,12 @@
 
 * [♥️ Welcome](README.md)
 
-<!-- ## Introduction -->
+## Introduction
 
-<!-- * [👀 Vision](introduction/vision.md) -->
-<!-- * [👋 Protocol overview](introduction/protocol-overview.md) -->
-<!-- * [🧠 Understanding Stabilis](introduction/understanding-stabilis.md) -->
-<!-- * [❗ Dangers](introduction/dangers.md) -->
+* [👀 Vision](introduction/vision.md)
+* [👋 Protocol overview](introduction/protocol-overview.md)
+* [🧠 Understanding Stabilis](introduction/understanding-stabilis.md)
+* [❗ Dangers](introduction/dangers.md)
 
 <!-- ## Website -->
 
