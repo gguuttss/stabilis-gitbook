@@ -9,7 +9,7 @@ description: >-
 
 **STAB**
 
-The ultimate goal of the Stabilis protocol is creation of STAB. This is done in similar fashion as stablecoins such as DAI or LUSD: it is borrowed.
+The ultimate goal of the Stabilis protocol is creation of STAB. This is done in a similar fashion as stablecoins such as DAI or LUSD: it is borrowed.
 
 To borrow STAB, the user provides the protocol with a collateral. The collateral value must be higher than 150% of the borrowed STAB's value (reffered to as the MCR from here on) and ensures the borrowed STAB is always backed by assets of at least their value. In return for this collateral, the protocol provides the borrower with the freshly-minted STAB tokens and a Loan Receipt. By showing the protocol their previously acquired receipt, one can prove to be the owner of a loan and exchange their STAB for their collateral again.
 
