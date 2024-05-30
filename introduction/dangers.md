@@ -19,4 +19,4 @@ When a loan's collateralization ratio falls under the MCR, it is possible to be 
 Manipulation of the oracle(s) we use can lead to inaccurate liquidations and other actions that should not be possible.
 
 **Depeg risk**\
-Market conditions could lead STAB to trade at a price far from the (target) internal price. Were this to happen, repaying a loan (or liquidating), might become unfeasible.
+Market conditions could lead STAB to trade at a price far from the (target) internal price. Were this to happen repaying a loan (or liquidating), might become unfeasible.
