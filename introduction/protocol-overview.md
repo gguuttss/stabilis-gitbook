@@ -1,8 +1,8 @@
 ---
 description: >-
   Stabilis is a protocol which aims to provide the Radix ecosystem with stable
-  assets. At this point in time, only the STAB (STAble Basis) token is available
-  (on Stokenet).
+  assets. At this point in time, only the STAB (STAble Basis) token will be
+  available (on Stokenet).
 ---
 
 # 👋 Protocol overview
@@ -21,4 +21,4 @@ Of course, to prevent liquidation, it is possible to add some collateral to a lo
 
 The **unique** feature of STAB however, is that it is not hard-pegged to a single USD valuation; STAB tokens are subject to an interest rate. The interest rates can vary from -33.33% to +50% per year and are set by STAB supply and demand. Negative interest is attractive for STAB borrowers, as their debt decreases over time, whereas positive interest is attractive for STAB holders, as their assets increase in value.
 
-As previously mentioned, this interest rate is set by supply and demand. To do this, the protocol keeps track of an internal price, which it believes STAB should trade at on the open market. If the internal price is higher than the open market price, STAB is in low demand and interest rates increase. Conversely, if the open market price is higher than the internal price, STAB is in high demand and interest rates decrease! To keep track of the STAB price, an AMM is built into the protocol, where the user can swap their XRD for STAB. Providing liquidity to this pool returns LPSTAB tokens to the user.
+As previously mentioned, this interest rate is set by supply and demand. To do this, the protocol keeps track of an internal price (or peg), which it believes STAB should trade at on the open market. If the internal price is higher than the open market price, STAB is in low demand and interest rates increase. Conversely, if the open market price is higher than the internal price, STAB is in high demand and interest rates decrease! To keep track of the STAB price, an AMM is built into the protocol, where the user can swap their XRD for STAB.

@@ -1,7 +1,7 @@
 # 👀 Vision
 
-Sometimes, providing stability is profitable, but provides little benefit. To match supply and demand appropriately and efficiently, users of this stability should be rewarded.\
-\
-At other times, providing stability is unprofitable, but provides much benefit. To match supply and demand appropriately and efficiently, providers of this stability should be rewarded.
+Traditionally, sometimes providing stability is profitable, but provides little benefit to others. While at other times, providing stability is unprofitable, but provides much benefit others. This leads to inefficient markets and occasionally even failed stability...
 
-That's why our vision is: **fair-priced stability**
+What if is doesn't have to be this way? What if we could incentivize providing stability when it's unattractive, and disincentivize it when it is too attractive?
+
+That's our vision: **fair-priced stability**
