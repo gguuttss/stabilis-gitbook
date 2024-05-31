@@ -9,7 +9,7 @@
 * [🧠 Understanding Stabilis](introduction/understanding-stabilis.md)
 * [❗ Dangers](introduction/dangers.md)
 
-## Website -->
+<!-- ## Website -->
 
 <!-- * [🌟 Quick start guide](website/quick-start-guide.md) -->
 <!-- * [💱 Swap](website/swap.md) -->
