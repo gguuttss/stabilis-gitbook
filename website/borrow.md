@@ -4,7 +4,7 @@ description: 'The Borrow page consists of a single feature: opening loans of STA
 
 # 💰 Borrow
 
-<mark style="color:red;">**Be careful, when borrowing STAB, you risk being liquidated when your collateral value falls below the MCR (150% of your debt's value)!**</mark>** This comes with** [<mark style="color:blue;">**liquidation penalties**</mark>](../miscellaneous/system-parameters.md)<mark style="color:blue;">**.**</mark>
+<mark style="color:red;">**Be careful, when borrowing STAB, you risk being liquidated when your collateral value falls below the MCR (150% of your debt's value)!**</mark> This comes with [<mark style="color:blue;">**liquidation penalties**</mark>](../miscellaneous/system-parameters.md)<mark style="color:blue;">**.**</mark>
 
 **Borrow STAB**\
 Borrowing STAB is done by providing collateral.\
@@ -25,5 +25,4 @@ Mainnet Stabilis will try to accommadate as many LSUs as possible, but for testi
 Choosing the amount of collateral to use, desired collateralization ratio and clicking "Borrow", starts a loan.
 
 **Protocol overview**\
-The state of the protocol is displayed on the right of the page, to give the user as much insight as possible.&#x20;
-
+The state of the protocol is displayed on the right of the page, to give the user as much insight as possible.
