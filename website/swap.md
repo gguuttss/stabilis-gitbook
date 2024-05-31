@@ -15,4 +15,4 @@ The user can execute their desired trade by swapping. When swapping, the price i
 **Manage liquidity**\
 Removing / adding liquidity can be done using the section on the right. The pool is used to determine the price STAB is trading at, and is an integral part of the protocol! The LP token is called LPSTAB. and trading fees are set to 0.1%.\
 \
-You can also see the _Real 7d APY_ from here. It is used as a measure versus just holding on to the tokens as opposed to providing liquidity. Click here to learn how it is [calculated](../miscellaneous/lp-apy-calculation.md).
+You can also see the _Real 7d APY_ from here. It is used as a measure of profitability of providing liquidity versus just holding on to the tokens. Click here to learn how it is [calculated](../miscellaneous/lp-apy-calculation.md).
