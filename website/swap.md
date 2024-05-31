@@ -10,7 +10,7 @@ description: >-
 First of all, the current internal price and market price (according to the pool) are shown. This gives a good indication on whether arbitrage is profitable.
 
 **Swap**\
-The user can execute their desired trade by swapping. When swapping, the price impact for the asset you are receiving is shown as a percentage. If the percentage is green, you are arbitraging. If it's red, you're either trading away from the peg, or overshooting the arbitrage.
+The user can execute their desired trade by swapping. When swapping, the price impact for the asset you are receiving is shown as a percentage. If the percentage is green, you're arbitraging. If it's red, you're either trading away from the peg, or overshooting the arbitrage.
 
 **Manage liquidity**\
 Removing / adding liquidity can be done using the section on the right. The pool is used to determine the price STAB is trading at, and is an integral part of the protocol! The LP token is called LPSTAB. and trading fees are set to 0.1%.\
