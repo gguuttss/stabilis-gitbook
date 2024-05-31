@@ -2,7 +2,7 @@
 
 * [♥️ Welcome](README.md)
 
-## Introduction -->
+## Introduction
 
 * [👀 Vision](introduction/vision.md)
 * [👋 Protocol overview](introduction/protocol-overview.md)
