@@ -17,11 +17,11 @@
 <!-- * [📊 Manage loans](website/manage-loans.md) -->
 <!-- * [🤹 Liquidations](website/liquidations.md) -->
 
-## Tokens
+<!-- ## Tokens
 
 <!-- * [🕺 STAB](tokens/stab.md) -->
 <!-- * [🤽 LPSTAB](tokens/lpstab.md) -->
-* [🪙 ILIS](tokens/ilis.md)
+<!-- * [🪙 ILIS](tokens/ilis.md) -->
 
 <!-- ## Miscellaneous -->
 
