@@ -21,7 +21,7 @@
 
 <!-- * [🕺 STAB](tokens/stab.md) -->
 <!-- * [🤽 LPSTAB](tokens/lpstab.md) -->
-<!-- * [🪙 ILIS](tokens/ilis.md) -->
+* [🪙 ILIS](tokens/ilis.md)
 
 <!-- ## Miscellaneous -->
 
@@ -30,10 +30,10 @@
 <!-- * [💹 STAB interest rate](miscellaneous/stab-interest-rate.md) -->
 <!-- * [➕ LP APY calculation](miscellaneous/lp-apy-calculation.md) -->
 
-<!-- ## Stabilis beta phase -->
+## Stabilis beta phase
 
-<!-- * [📶 Connection guide](stabilis-beta-phase/connection-guide.md) -->
-<!-- * [📩 Feedback reward program](stabilis-beta-phase/feedback-reward-program.md) -->
-<!-- * [🤝 Acknowledged suggestions](stabilis-beta-phase/acknowledged-suggestions.md) -->
-<!-- * [🐞 Acknowledged bug reports](stabilis-beta-phase/acknowledged-bug-reports.md) -->
-<!-- * [👨‍💻 Source code](stabilis-beta-phase/source-code.md) -->
+* [📶 Connection guide](stabilis-beta-phase/connection-guide.md)
+* [📩 Feedback reward program](stabilis-beta-phase/feedback-reward-program.md)
+* [🤝 Acknowledged suggestions](stabilis-beta-phase/acknowledged-suggestions.md)
+* [🐞 Acknowledged bug reports](stabilis-beta-phase/acknowledged-bug-reports.md)
+* [👨‍💻 Source code](stabilis-beta-phase/source-code.md)
