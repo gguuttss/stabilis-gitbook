@@ -23,7 +23,7 @@ Have an innate hate for anything Google? Give feedback in the [Telegram group](h
 
 We want to heavily incentivize providing feedback, so 9% of the total ILIS supply is allocated to rewarding feedback. These tokens will be evenly distributed over all feedback categories (so, 3% per category). Two minor details apply:
 
-1. The maximum amount of ILIS rewarded for a single piece of feedback / report / suggestion is 0.2% of the total ILIS supply. So if only 5 bugs are reported, 1% instead of 3% will be going to bug report rewards. If possible, the leftover rewards will be added to the other feedback categories.
+1. The maximum amount of ILIS rewarded for a single piece of feedback / report / suggestion is 0.2% of the total ILIS supply. So if only 5 bugs are reported, 1% instead of 3% will be going to bug report rewards. If possible, the leftover rewards will be added to the other feedback categories, but otherwise stay in possession of the DAO.
 2. The maximum amount of received feedback rewards per wallet will be 1% of total ILIS supply. Rewards exceeding this will stay in possession of the DAO.
 
 **Bug or suggestion?**
