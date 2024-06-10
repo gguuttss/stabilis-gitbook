@@ -4,7 +4,7 @@ description: We want to know what you think! Tell us, and be rewarded.
 
 # 📩 Feedback reward program
 
-Provide feedback on our open beta and be rewarded ILIS (the protocol's governance token, more information coming soon) at Mainnet launch!
+Provide feedback on our open beta and be rewarded ILIS (the protocol's governance token, more information coming soon) at Mainnet launch!\*
 
 Three categories of feedback are accepted:
 
@@ -15,7 +15,7 @@ Three categories of feedback are accepted:
 3. [Bug/mistake reports](https://forms.gle/bDAQx6REGDo1SagWA)\
    Found a bug, report it! To be eligible for rewards, your report needs to be acknowledged first ([see acknowledged reports](acknowledged-bug-reports.md)). It also needs to be new, so reporting a bug that has already been acknowledged won't count...
 
-Feedback can be on anything. So think documentation, website interface or wallet display.
+Feedback can be on anything. So think documentation, website interface or wallet display.\*\*
 
 Have an innate hate for anything Google? Give feedback in the [Telegram group](https://t.me/stabilislabs).
 
@@ -35,3 +35,9 @@ A **bug** is something that is not working the way it is intended to.
 A **suggestion** you make if you would like to see something added or done differently. This doesn't require something to be "broken".
 
 Don't sweat it too much though. If we think you chose the wrong form, we will just treat you feedback as though it was submitted using the other form.
+
+
+
+\* The date for _Mainnet launch is not yet set in stone, and could be some way out still. So, don't expect to be receiving your tokens soon._
+
+_\*\* The Stabilis Labs team is ultimately the one that decides whether bugs/mistakes or suggestions are acknowledged though. For example, a single spelling mistake will probably not get acknowledged. Do send them in though, as we still appreciate ALL feedback._
