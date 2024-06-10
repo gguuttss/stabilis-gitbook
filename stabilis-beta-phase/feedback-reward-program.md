@@ -21,7 +21,7 @@ Have an innate hate for anything Google? Give feedback in the [Telegram group](h
 
 **Reward distribution**
 
-We want to heavily incentivize providing feedback, so 6% of the total ILIS supply is allocated to rewarding feedback. These tokens will be evenly distributed over all feedback categories (so, 2% per category).
+We want to heavily incentivize providing feedback, so (at least) 6% of the total ILIS supply is allocated to rewarding feedback. These tokens will be evenly distributed over all feedback categories (so, 2% per category).
 
 Two minor details apply:
 
