@@ -9,7 +9,7 @@ description: >-
 To use the Stabilis open beta:
 
 1. **Configure wallet settings**\
-   To enable you wallet to interact with a Stokenet app, you need to change some settings. Open the Radix wallet app and click the cogwheel on the top right. Next, click "Preferences", where you'll find the "Developer Mode" setting. Enable it, and from the same section click "Network Gateways". Add a new gateway: https://stokenet.radixdlt.com. Make sure to select it afterwards.
+   To enable you wallet to interact with a Stokenet app, you need to change some settings. Open the Radix wallet app and click the cogwheel on the top right. Next, click "Preferences" (or "App Settings" for older wallets), where you'll find the "Developer Mode" setting. Enable it, and from the same section click "Network Gateways". Add a new gateway: https://stokenet.radixdlt.com. Make sure to select it afterwards.
 2. **Create an account**\
    Now your app is configured to Stokenet, you can create an account. Same way you're used to!
 3. **Get some Stokenet XRD**\
