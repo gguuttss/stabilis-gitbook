@@ -10,7 +10,9 @@ The three interactions currently impossible through the front-end are using flas
 
 **Flash loan manifest**
 
-Current flash loan receipt address: address here
+Flash loan receipt address: address here
+
+Proxy component address: address here
 
 ```
 CALL_METHOD
