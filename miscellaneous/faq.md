@@ -11,7 +11,7 @@ A: You can acquire STAB either by borrowing it through the Stabilis Protocol, or
 A: Borrowing STAB can be done through the [Borrow page](https://ilikeitstable.com/borrow) of the Stabilis dapp.
 
 **Q: Is borrowing STAB dangerous?**\
-A: There are [risks ](../introduction/dangers.md)to borrowing STAB. A big one is liquidation risk: if your collateral value falls below a certain treshold (MCR), being liquidated is a possibility. Another user then pays off your debt, in return for (part of) your collateral. When this happens, you pay the [liquidation penalties](system-parameters.md). To prevent this, keeping close tabs on your loans using the [Manage loans page](https://ilikeitstable.com/manage-loans), is important.
+A: There are [risks ](dangers.md)to borrowing STAB. A big one is liquidation risk: if your collateral value falls below a certain treshold (MCR), being liquidated is a possibility. Another user then pays off your debt, in return for (part of) your collateral. When this happens, you pay the [liquidation penalties](system-parameters.md). To prevent this, keeping close tabs on your loans using the [Manage loans page](https://ilikeitstable.com/manage-loans), is important.
 
 **Q: What is the MCR?**\
 A: MCR stands for Minimum Collateralization Ratio, and represents the minimum amount of collateral is needed to not get liquidated. If a loan's collateralization ratio is below the MCR, another user can pay it of and the loan holder will be penalized.\
@@ -31,4 +31,4 @@ A: You can easily create one on the dapp's [Incentives page](https://ilikeitstab
 A: [LPSTAB ](../tokens/lpstab.md)is the LP token of the XRD/STAB pool integrated into the Stabilis protocol. Providing it with liquidity returns the LPSTAB tokens to represent your share of the pool.
 
 **Q: What is ILIS?**\
-A: [ILIS ](broken-reference)(I Like It Stable) is the native token of the Stabilis ecosystem. It will be used in governance, and to distribute protocol acquired fees. It is not currently available in this phase of the open beta.
+A: [ILIS ](broken-reference/)(I Like It Stable) is the native token of the Stabilis ecosystem. It will be used in governance, and to distribute protocol acquired fees. It is not currently available in this phase of the open beta.

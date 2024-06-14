@@ -11,13 +11,3 @@ Furthermore, the Stabilis protocol accrues assets in the form of liquidation pen
 **Supply**
 
 100.000.000 ILIS
-
-**Distribution**
-
-65% Distributed through Governance
-
-10% Mainnet launch airdrop
-
-10% Beta feedback rewards
-
-15% Stabilis Labs retention
