@@ -8,7 +8,7 @@ description: >-
 
 For a loan to be liquidated, it first needs to be marked. Then, after a delay of 5 minutes, it can be liquidated by the marker. If the marker decides not to liquidate it, 10 minutes after the initial marking, anyone can liquidate it.\
 \
-See the [System parameters](../miscellaneous/system-parameters.md) for liquidation penalties.
+See the [System parameters](../technical-information/system-parameters.md) for liquidation penalties.
 
 
 

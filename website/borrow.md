@@ -4,7 +4,7 @@ description: 'The Borrow page consists of a single feature: opening loans of STA
 
 # 💰 Borrow
 
-<mark style="color:red;">**Be careful, when borrowing STAB, you risk being liquidated when your collateral value falls below the MCR (150% of your debt's value)!**</mark> This comes with [<mark style="color:blue;">**liquidation penalties**</mark>](../miscellaneous/system-parameters.md)<mark style="color:blue;">**.**</mark>
+<mark style="color:red;">**Be careful, when borrowing STAB, you risk being liquidated when your collateral value falls below the MCR (150% of your debt's value)!**</mark> This comes with [<mark style="color:blue;">**liquidation penalties**</mark>](../technical-information/system-parameters.md)<mark style="color:blue;">**.**</mark>
 
 **Borrow STAB**\
 Borrowing STAB is done by providing collateral.\

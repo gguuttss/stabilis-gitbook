@@ -13,6 +13,6 @@ Just want to get started quickly? Here's an example of a typical user flow:
 4. **Check in periodically**\
    To prevent becoming a victim of liquidation, it is of utmost importance to monitor the health of your outstanding loans! You can do so on the [Manage loans](https://ilikeitstable.com/manage-loans) page, where you can add and remove collateral from your loan accordingly (or pay it off completely).
 
-That's the gist of it! If you still have questions, chances are they will be answered by reading the [FAQ](../miscellaneous/faq.md). If not, feel free to ask them in the [Telegram](https://t.me/stabilislabs) group.
+That's the gist of it! If you still have questions, chances are they will be answered by reading the [FAQ](../introduction/faq.md). If not, feel free to ask them in the [Telegram](https://t.me/stabilislabs) group.
 
 Up next, you'll find more detailed information on the individual interface pages of Stabilis.
