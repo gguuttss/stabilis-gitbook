@@ -8,10 +8,10 @@ description: Got a question? Chances are it's listed here!
 A: You can acquire STAB either by borrowing it through the Stabilis Protocol, or buying it on the open market.
 
 **Q: How do I borrow STAB?**\
-A: Borrowing STAB can be done through the [Borrow page](https://ilikeitstable.com/borrow) of the Stabilis dapp.
+A: Borrowing STAB can be done through the [Borrow page](https://beta.ilikeitstable.com/borrow) of the Stabilis dapp.
 
 **Q: Is borrowing STAB dangerous?**\
-A: There are [risks ](dangers.md)to borrowing STAB. A big one is liquidation risk: if your collateral value falls below a certain treshold (MCR), being liquidated is a possibility. Another user then pays off your debt, in return for (part of) your collateral. When this happens, you pay the [liquidation penalties](../technical-information/system-parameters.md). To prevent this, keeping close tabs on your loans using the [Manage loans page](https://ilikeitstable.com/manage-loans), is important.
+A: There are [risks ](dangers.md)to borrowing STAB. A big one is liquidation risk: if your collateral value falls below a certain treshold (MCR), being liquidated is a possibility. Another user then pays off your debt, in return for (part of) your collateral. When this happens, you pay the [liquidation penalties](../technical-information/system-parameters.md). To prevent this, keeping close tabs on your loans using the [Manage loans page](https://beta.ilikeitstable.com/manage-loans), is important.
 
 **Q: What is the MCR?**\
 A: MCR stands for Minimum Collateralization Ratio, and represents the minimum amount of collateral is needed to not get liquidated. If a loan's collateralization ratio is below the MCR, another user can pay it of and the loan holder will be penalized.\
