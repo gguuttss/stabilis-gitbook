@@ -9,11 +9,19 @@ Provide feedback on our open beta and be rewarded ILIS (the protocol's governanc
 Three categories of feedback are accepted:
 
 1. [General feedback](https://forms.gle/gbrkvVZRY615R3P49)\
-   Tell us what you liked, and what you didn't. Can only be provided once per person to prevent abuse. Responses can be edited after submitting them. To ensure only one response per person we will collect and verify your email. Don't want this? Don't worry, the other two methods are anonymous!
+   Tell us what you liked, and what you didn't. Can only be provided once per person to prevent abuse. Responses can be edited after submitting them. To ensure only one response per person we will collect and verify your email. Don't want this? Don't worry, the other two methods are anonymous!\
+   \
+   Do so here: [https://forms.gle/ayftNkq3wBMmGPhR7](https://forms.gle/ayftNkq3wBMmGPhR7)\
+
 2. [Suggestions](https://forms.gle/TwNvCLDFDkxXegao8)\
-   Have a suggestion, share it! To be eligible for rewards, your suggestion needs to be acknowledged first ([see acknowledged suggestions](acknowledged-suggestions.md)). It also needs to be new, so making a suggestion similar to one that has already been acknowledged won't count...
+   Have a suggestion, share it! To be eligible for rewards, your suggestion needs to be acknowledged first ([see acknowledged suggestions](acknowledged-suggestions.md)). It also needs to be new, so making a suggestion similar to one that has already been acknowledged won't count...\
+   \
+   Do so here: [https://forms.gle/eVgduLA2EAFKE8Kg6](https://forms.gle/eVgduLA2EAFKE8Kg6)\
+
 3. [Bug/mistake reports](https://forms.gle/bDAQx6REGDo1SagWA)\
-   Found a bug, report it! To be eligible for rewards, your report needs to be acknowledged first ([see acknowledged reports](acknowledged-bug-reports.md)). It also needs to be new, so reporting a bug that has already been acknowledged won't count...
+   Found a bug, report it! To be eligible for rewards, your report needs to be acknowledged first ([see acknowledged reports](acknowledged-bug-reports.md)). It also needs to be new, so reporting a bug that has already been acknowledged won't count...\
+   \
+   Do so here: [https://forms.gle/FPStboHuaYuxqHwG9](https://forms.gle/FPStboHuaYuxqHwG9)
 
 Feedback can be on anything. So think documentation, website interface or wallet display.\*\*
 
