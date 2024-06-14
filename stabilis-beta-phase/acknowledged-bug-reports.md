@@ -12,7 +12,8 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 
 **General:**
 
-*
+* Terms and conditions point to a website that doesn't exist \[2]
+  * Note from team: this is kinda intentional as it was a placeholder for when t\&c's are available, but I'll grant you this acknowledgement as it does seem a bit strange ;) (and as a reward for actually checking the t\&c's)
 
 **Swap page:**
 
@@ -31,4 +32,4 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 **Corresponding wallet addresses:**
 
 \[1]  account\_rdx12yjjm6akwvlqs7jd6praqzgayzahuurskdkkz3lpq4yas9ndq4f52h\
-\[2]
+\[2] account\_rdx16xnyurvw7qnlhtes6y0ls0cyr6f7wsd5t85cf053y9nd4kh7nsp52y
