@@ -9,13 +9,6 @@
 * [❗ Dangers](introduction/dangers.md)
 * [❓ FAQ](introduction/faq.md)
 
-## Stabilis beta phase
-
-* [📶 Connection guide](stabilis-beta-phase/connection-guide.md)
-* [📩 Feedback reward program](stabilis-beta-phase/feedback-reward-program.md)
-* [🤝 Acknowledged suggestions](stabilis-beta-phase/acknowledged-suggestions.md)
-* [🐞 Acknowledged bugs](stabilis-beta-phase/acknowledged-bug-reports.md)
-
 ## Using Stabilis
 
 * [🌟 Quick start guide](website/quick-start-guide.md)
@@ -29,6 +22,13 @@
 * [🕺 STAB](tokens/stab.md)
 * [🤽 LPSTAB](tokens/lpstab.md)
 * [🪙 ILIS](tokens/ilis.md)
+
+## Stabilis beta phase
+
+* [📶 Connection guide](stabilis-beta-phase/connection-guide.md)
+* [📩 Feedback reward program](stabilis-beta-phase/feedback-reward-program.md)
+* [🤝 Acknowledged suggestions](stabilis-beta-phase/acknowledged-suggestions.md)
+* [🐞 Acknowledged bugs](stabilis-beta-phase/acknowledged-bug-reports.md)
 
 ## Technical information
 
