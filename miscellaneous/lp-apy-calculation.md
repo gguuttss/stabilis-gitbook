@@ -1,6 +1,6 @@
-# ➕ LP APY calculation
+# ➕ LP real APY calculation
 
-The 7d Real APY shows how profitable providing liquidity has been the last 7 days, compared to just holding both tokens.
+The 7d Real APY as displayed on the Swap page shows how profitable providing liquidity has been the last 7 days, compared to just holding both tokens.
 
 <pre class="language-javascript"><code class="lang-javascript"><strong>7_day_real_apy = ((lp_valuation_now / lp_valuation_7_days_ago)^(365 / 7) - 1) * 100;
 </strong></code></pre>

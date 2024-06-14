@@ -1,9 +1,8 @@
 # Table of contents
 
-* [♥️ Welcome](README.md)
-
 ## Introduction
 
+* [♥️ Welcome](README.md)
 * [👀 Vision](introduction/vision.md)
 * [👋 Protocol overview](introduction/protocol-overview.md)
 * [🧠 Understanding Stabilis](introduction/understanding-stabilis.md)
@@ -13,7 +12,7 @@
 * [📶 Connection guide](stabilis-beta-phase/connection-guide.md)
 * [📩 Feedback reward program](stabilis-beta-phase/feedback-reward-program.md)
 * [🤝 Acknowledged suggestions](stabilis-beta-phase/acknowledged-suggestions.md)
-* [🐞 Acknowledged bug reports](stabilis-beta-phase/acknowledged-bug-reports.md)
+* [🐞 Acknowledged bugs](stabilis-beta-phase/acknowledged-bug-reports.md)
 * [👨‍💻 Source code](stabilis-beta-phase/source-code.md)
 
 ## Using Stabilis
@@ -32,9 +31,9 @@
 
 ## Miscellaneous
 
-* [Transaction manifests](miscellaneous/transaction-manifests.md)
-* [❗ Dangers](miscellaneous/dangers.md)
+* [❗ Dangers](introduction/dangers.md)
 * [❓ FAQ](miscellaneous/faq.md)
+* [🧾 Transaction manifests](miscellaneous/transaction-manifests.md)
 * [➗ System parameters](miscellaneous/system-parameters.md)
 * [💹 STAB interest rate](miscellaneous/stab-interest-rate.md)
-* [➕ LP APY calculation](miscellaneous/lp-apy-calculation.md)
+* [➕ LP real APY calculation](miscellaneous/lp-apy-calculation.md)

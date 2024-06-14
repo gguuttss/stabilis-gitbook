@@ -4,21 +4,49 @@ description: >-
   requires the use of the transaction manifest.
 ---
 
-# Transaction manifests
+# 🧾 Transaction manifests
 
-The Stabilis protocol consists of multiple components:
+The three interactions currently impossible through the front-end are using flash loans, forced liquidations and forced minting. These are all handled by the Stabilis Proxy Component.
 
-* Stabilis Component: address here
-* Flash Loan Component: address here
-* Stabilis Proxy Component: address here
-* Stabilis DEX Component: address here
-* Oracle Component: address here
+**Flash loan manifest**
 
-The three main interactions impossible through the front-end are using flash loans, forced liquidations and forced minting. These are all handled by the Stabilis Proxy Component.
-
-**Flash loan**
+Current flash loan receipt address: address here
 
 ```
-// Some code
+CALL_METHOD
+  Address("<proxy_component_address>")
+  "flash_borrow"
+  Decimal("1000")
+;
+
+////////////////////////////////////////////////////////////////////////////
+/////////////////////// USE YOUR BORROWED STAB HERE ////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////
+//// PUT THE STAB YOU'RE USING TO PAY BACK THE LOAN ON THE WORK TOP ////////
+////////////////////////////////////////////////////////////////////////////
+
+TAKE_ALL_FROM_WORKTOP
+  Address("<stab_address>")
+  Bucket("stab_bucket")
+;
+
+TAKE_ALL_FROM_WORKTOP
+  Address("<loan_receipt_address>")
+  Bucket("receipt_bucket")
+;
+
+CALL_METHOD
+  Address("<proxy_component_address>")
+  "flash_pay_back"
+  Bucket("receipt_bucket")
+  Bucket("stab_bucket")
+;
 ```
 
+
+
+**Forced minting / borrowing**
+
+Will become available after the open beta
