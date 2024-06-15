@@ -14,6 +14,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 
 * Terms and conditions point to a website that doesn't exist \[2]
   * Note from team: this is kinda intentional as it was a placeholder for when t\&c's are available, but I'll grant you this acknowledgement as it does seem a bit strange ;) (and as a reward for actually checking the t\&c's)
+* Metadata for Liquidation Receipt is wrong \[2]
 
 **Swap page:**
 
