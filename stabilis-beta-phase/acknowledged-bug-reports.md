@@ -19,6 +19,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 **Swap page:**
 
 * APY tooltip not visible on mobile \[3]
+* Interest rate, market price & internal price not visible on mobile \[1]
 * APY value showing as "-" \[4]
   * Note from team: strange... seems to have to do something with API calls failing. Not sure why...
 
@@ -26,10 +27,11 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 
 * It is currently impossible to borrow at exactly 75% CR \[1]
 
-**Manage loans page:**
+**Liquidations page:**
 
-* Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]
 * Disconnecting the wallet doesn't reset the liquidations widget properly \[5]
+* Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]
+* Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]
 
 
 

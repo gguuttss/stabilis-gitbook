@@ -5,9 +5,9 @@
 * [♥️ Welcome](README.md)
 * [👀 Vision](introduction/vision.md)
 * [👋 Protocol overview](introduction/protocol-overview.md)
-* [🧠 Understanding Stabilis](introduction/understanding-stabilis.md)
 * [❗ Dangers](introduction/dangers.md)
 * [❓ FAQ](introduction/faq.md)
+* [🔗 Useful links](introduction/understanding-stabilis.md)
 
 ## Using Stabilis
 
