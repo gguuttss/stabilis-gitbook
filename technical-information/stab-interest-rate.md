@@ -28,4 +28,4 @@ Minimum yearly interest rate: -33.33%
 
 Maximum yearly interest rate: +50%
 
-If these values are exceeded by the interest rate calculation, interest rate is automatically set to the exceeded value.
+If these values are exceeded by the interest rate calculation, interest rate is automatically set to the exceeded value.\
