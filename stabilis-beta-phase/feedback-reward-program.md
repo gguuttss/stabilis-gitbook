@@ -4,7 +4,7 @@ description: We want to know what you think! Tell us, and be rewarded.
 
 # 📩 Feedback reward program
 
-Provide feedback on our open beta and be rewarded ILIS (the protocol's governance token, more information coming soon) at Mainnet launch!\*
+Provide feedback on our [open beta](https://beta.ilikeitstable.com) and be rewarded ILIS (the protocol's governance token, more information coming soon) at Mainnet launch!\*
 
 Three categories of feedback are accepted:
 
