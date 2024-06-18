@@ -13,8 +13,12 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 **General:**
 
 * Warn user when input will make transaction fail / don't allow them to input when transaction will fail \[1]
+* Add total market cap of STAB on protocol overview \[9]
+* Add protocol's total collateral and total debt to protocol overview \[9]
+* Specify interest rate as APY or APR \[9]
 * Disable buttons when actions aren't possible \[4]
 * Show toast notifications for submitted / completed actions \[1]
+  * Include link to completed transaction \[9]
 * Reset input fields after action \[1]
   * E.g. on swap page, manage liquidity, manage loans
 * Clearly display links to form in Feedback Reward Program documentation \[2]
@@ -31,11 +35,12 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 **Borrow page:**
 
 * Refresh borrowing widget after transaction completion \[1]
-* Disable collateral amount input until collateral is selected to make clear a collateral needs to selected \[1]
+* Disable collateral amount input until collateral is selected to make clear a collateral needs to selected or make XRD default collateral \[1]
 * Add extra information in loan receipt dropdown
   * Collateralization ratio / status \[1]
 * Add ability to type collateralization ratio \[2]
 * Add more collateral types \[8]
+* Add total TVL of STAB pool \[9]
 
 **Manage loans page:**
 
@@ -43,9 +48,10 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add preview of added/removed collateral \[1]
 * Add “In Danger” loan status, for loans that haven’t been marked but have a CR < MCR \[1]
 * Add ability to close multiple loans at a once \[2]
-* Easier way to add / remove collateral to a loan (e.g. button, slider) \[2]
+* Easier way to add / remove collateral to a loan (e.g. max button and slider with percentage of new CR) \[2]
 * Disable / remove the remove collateral and close loan sections when appropriate \[5]
 * Add ability to view all loans in table format for a quick overview \[7]
+* Make it possible to borrow more using a loan receipt / pay off part of the loan receipt \[9]
 
 **Liquidations page:**
 
@@ -58,6 +64,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add tiles / photo's of front-end pages in relevant docs sections. \[3]
 * Add documentation about protocol related NFTs such as the liquidation receipts or marker receipts. \[3]
 * Add glossary with abbreviations / key terms. \[3]
+* Add team section \[9]
 
 **Design:**
 
@@ -84,4 +91,5 @@ _\* If the corresponding wallet address is displayed under another item, other s
 \[5] account\_rdx129vvayydut5dp7k57xqxsqch35kwhvvalqy8tjuy9mhpusfs8v6h2a\
 \[6] account\_rdx12xzhw80gam7cpnlvlsc2k92qfutnfgjkn4f4jsvamsmkrhnfccdvtq\
 \[7] account\_rdx16xfrgh0l0aamm3se0arh0u4srdvhz8q3vk70pxsak4rkjgzq4lwfwc\
-\[8] account\_rdx12xsazesakktlwp4dsrzca70e84uqzp5ndxv9uu5anaws62uaecsz5g
+\[8] account\_rdx12xsazesakktlwp4dsrzca70e84uqzp5ndxv9uu5anaws62uaecsz5g\
+\[9] account\_rdx1690mc988pn6s2wsax6hqawg8eh2lfqjqf9ptfxnapczdha5u9kl2nd
