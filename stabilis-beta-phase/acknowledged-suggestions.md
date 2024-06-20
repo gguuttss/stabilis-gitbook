@@ -23,6 +23,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
   * E.g. on swap page, manage liquidity, manage loans
 * <mark style="color:green;">Clearly display links to form in Feedback Reward Program documentation \[2]</mark>
 * Clicking the max. button when using XRD for borrowing / swapping should leave some XRD for the transaction fees \[3]
+  * Note: should it really? It's a good shout, but some dapps do, and some dapps don't. For instance, you can pay fees from another account.
 * Create video's to explain the protocol and how to use it \[5]
 * <mark style="color:orange;">Add liquidation timestamp to Liquidation Receipt NFTs. \[3]</mark>
 
@@ -65,7 +66,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add documentation about protocol related NFTs such as the liquidation receipts or marker receipts. \[3]
 * Add glossary with abbreviations / key terms. \[3]
 * Add team section \[9]
-* <mark style="color:green;">Add documentation on STAB interest rate and what its uses are \[10]</mark>
+* <mark style="color:blue;">Add documentation on STAB interest rate and what its uses are \[10]</mark>
 
 **Design:**
 
@@ -100,6 +101,7 @@ _\* If the corresponding wallet address is displayed under another item, other s
 
 **Color meanings:**\
 \
+<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">bug fixed</mark>\
 <mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">suggestion implemented locally (not live on beta yet)</mark>\
 <mark style="color:orange;">**Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in progress</mark>\
 **Black:** not started yet
