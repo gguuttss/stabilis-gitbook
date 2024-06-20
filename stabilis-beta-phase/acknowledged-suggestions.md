@@ -65,7 +65,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add documentation about protocol related NFTs such as the liquidation receipts or marker receipts. \[3]
 * Add glossary with abbreviations / key terms. \[3]
 * Add team section \[9]
-* Add documentation on STAB interest rate and what its uses are \[10]
+* <mark style="color:green;">Add documentation on STAB interest rate and what its uses are \[10]</mark>
 
 **Design:**
 
