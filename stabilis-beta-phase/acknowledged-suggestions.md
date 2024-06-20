@@ -93,3 +93,11 @@ _\* If the corresponding wallet address is displayed under another item, other s
 \[7] account\_rdx16xfrgh0l0aamm3se0arh0u4srdvhz8q3vk70pxsak4rkjgzq4lwfwc\
 \[8] account\_rdx12xsazesakktlwp4dsrzca70e84uqzp5ndxv9uu5anaws62uaecsz5g\
 \[9] account\_rdx1690mc988pn6s2wsax6hqawg8eh2lfqjqf9ptfxnapczdha5u9kl2nd
+
+
+
+**Color meanings:**\
+\
+<mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">suggestion implemented locally (not live on beta yet)</mark>\
+<mark style="color:orange;">**Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in progress</mark>\
+**Black:** not started yet
