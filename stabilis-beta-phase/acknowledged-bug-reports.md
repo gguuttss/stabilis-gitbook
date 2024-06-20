@@ -13,25 +13,23 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 **General:**
 
 * Terms and conditions point to a website that doesn't exist \[2]
-  * Note from team: this is kinda intentional as it was a placeholder for when t\&c's are available, but I'll grant you this acknowledgement as it does seem a bit strange ;) (and as a reward for actually checking the t\&c's)
-* Metadata for Liquidation Receipt is wrong \[2]
+* <mark style="color:orange;">Metadata for Liquidation Receipt is wrong \[2]</mark>
 
 **Swap page:**
 
-* APY tooltip not visible on mobile \[3]
-* Interest rate, market price & internal price not visible on mobile \[1]
-* APY value showing as "-" \[4]
-  * Note from team: strange... seems to have to do something with API calls failing. Not sure why...
+* <mark style="color:green;">APY tooltip not visible on mobile \[3]</mark>
+* <mark style="color:green;">Interest rate, market price & internal price not visible on mobile \[1]</mark>
+* <mark style="color:green;">APY value showing as "-" \[4]</mark>
 
 **Borrow page:**
 
-* It is currently impossible to borrow at exactly 75% CR \[1]
+* <mark style="color:green;">It is currently impossible to borrow at exactly 75% CR \[1]</mark>
 
 **Liquidations page:**
 
-* Disconnecting the wallet doesn't reset the liquidations widget properly \[5]
-* Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]
-* Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]
+* <mark style="color:green;">Disconnecting the wallet doesn't reset the liquidations widget properly \[5]</mark>
+* <mark style="color:green;">Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]</mark>
+* <mark style="color:green;">Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]</mark>
 
 
 
@@ -42,3 +40,11 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 \[3] account\_rdx128y2ju3qxz9mwkckzndzcxdl952aq684t38u3mn5swmgur9v00xuch\
 \[4] account\_rdx1292k5fgdu38chahut2n2hewdzftr7dean4snns4zs38zf52udvm22w\
 \[5] account\_rdx12y4szqpzkcng0p684rnzmc3x0t5pfn246zsh2x5hxf4uk7n4w2q3z0
+
+
+
+**Color meanings:**\
+\
+<mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">bug fixed locally (not live on beta yet)</mark>\
+<mark style="color:orange;">**Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in progress</mark>\
+**Black:** not started yet

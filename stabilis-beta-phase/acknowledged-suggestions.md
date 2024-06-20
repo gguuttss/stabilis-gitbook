@@ -12,25 +12,26 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 
 **General:**
 
-* Warn user when input will make transaction fail / don't allow them to input when transaction will fail \[1]
-* Add total market cap of STAB on protocol overview \[9]
-* Add protocol's total collateral and total debt to protocol overview \[9]
-* Specify interest rate as APY or APR \[9]
-* Disable buttons when actions aren't possible \[4]
+* <mark style="color:green;">Warn user when input will make transaction fail / don't allow them to input when transaction will fail \[1]</mark>
+* <mark style="color:green;">Add total market cap of STAB on protocol overview \[9]</mark>
+* <mark style="color:orange;">Add protocol's total collateral and total debt to protocol overview \[9]</mark>
+* <mark style="color:green;">Specify interest rate as APY or APR \[9]</mark>
+* <mark style="color:green;">Disable buttons when actions aren't possible \[4]</mark>
 * Show toast notifications for submitted / completed actions \[1]
   * Include link to completed transaction \[9]
 * Reset input fields after action \[1]
   * E.g. on swap page, manage liquidity, manage loans
-* Clearly display links to form in Feedback Reward Program documentation \[2]
+* <mark style="color:green;">Clearly display links to form in Feedback Reward Program documentation \[2]</mark>
 * Clicking the max. button when using XRD for borrowing / swapping should leave some XRD for the transaction fees \[3]
 * Create video's to explain the protocol and how to use it \[5]
-* Add liquidation timestamp to Liquidation Receipt NFTs. \[3]
+* <mark style="color:orange;">Add liquidation timestamp to Liquidation Receipt NFTs. \[3]</mark>
 
 **Swap page:**
 
 * Improve manage liquidity widget
   * By adding liquidity value \[1]
-* Display more decimals for swap output \[4]
+* <mark style="color:green;">Display more decimals for swap output \[4]</mark>
+* Add TVL of STAB pool \[9]
 
 **Borrow page:**
 
@@ -38,20 +39,19 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Disable collateral amount input until collateral is selected to make clear a collateral needs to selected or make XRD default collateral \[1]
 * Add extra information in loan receipt dropdown
   * Collateralization ratio / status \[1]
-* Add ability to type collateralization ratio \[2]
+* Add ability to type in collateralization ratio \[2]
 * Add more collateral types \[8]
-* Add total TVL of STAB pool \[9]
 
 **Manage loans page:**
 
-* Make closed / liquidated loan receipts burnable \[1]
+* <mark style="color:orange;">Make closed / liquidated loan receipts burnable \[1]</mark>
 * Add preview of added/removed collateral \[1]
 * Add “In Danger” loan status, for loans that haven’t been marked but have a CR < MCR \[1]
 * Add ability to close multiple loans at a once \[2]
 * Easier way to add / remove collateral to a loan (e.g. max button and slider with percentage of new CR) \[2]
-* Disable / remove the remove collateral and close loan sections when appropriate \[5]
+* <mark style="color:green;">Disable / remove the remove collateral and close loan sections when appropriate \[5]</mark>
 * Add ability to view all loans in table format for a quick overview \[7]
-* Make it possible to borrow more using a loan receipt / pay off part of the loan receipt \[9]
+* <mark style="color:orange;">Make it possible to borrow more using a loan receipt / pay off part of the loan receipt \[9]</mark>
 
 **Liquidations page:**
 
