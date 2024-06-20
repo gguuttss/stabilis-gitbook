@@ -4,7 +4,7 @@ description: We want to know what you think! Tell us, and be rewarded.
 
 # 📩 Feedback reward program
 
-Program d_eadline: July 1 23:59! Later feedback is appreciated, but doesn't count towards rewards._\
+_Program_ d_eadline: July 1 23:59! Later feedback is appreciated, but doesn't count towards rewards._\
 \
 Provide feedback on our [open beta](https://beta.ilikeitstable.com) and be rewarded ILIS (the protocol's governance token, more information coming soon) at Mainnet launch!\*
 
