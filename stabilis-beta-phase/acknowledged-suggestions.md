@@ -65,6 +65,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add documentation about protocol related NFTs such as the liquidation receipts or marker receipts. \[3]
 * Add glossary with abbreviations / key terms. \[3]
 * Add team section \[9]
+* Add documentation on STAB interest rate and what its uses are \[10]
 
 **Design:**
 
@@ -92,7 +93,8 @@ _\* If the corresponding wallet address is displayed under another item, other s
 \[6] account\_rdx12xzhw80gam7cpnlvlsc2k92qfutnfgjkn4f4jsvamsmkrhnfccdvtq\
 \[7] account\_rdx16xfrgh0l0aamm3se0arh0u4srdvhz8q3vk70pxsak4rkjgzq4lwfwc\
 \[8] account\_rdx12xsazesakktlwp4dsrzca70e84uqzp5ndxv9uu5anaws62uaecsz5g\
-\[9] account\_rdx1690mc988pn6s2wsax6hqawg8eh2lfqjqf9ptfxnapczdha5u9kl2nd
+\[9] account\_rdx1690mc988pn6s2wsax6hqawg8eh2lfqjqf9ptfxnapczdha5u9kl2nd\
+\[10] account\_rdx12x4swkpknpcvrvr9q0tsezz0cg3u6qfwsfw48520ly8x50u0wv9zjp
 
 
 
