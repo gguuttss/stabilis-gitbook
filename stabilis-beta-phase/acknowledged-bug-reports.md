@@ -53,7 +53,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 **Color meanings:**
 
 \
-<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">bug fixed</mark>\
+<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">bug fixed (had to leave while deploying... will be live soon)</mark>\
 <mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">bug fixed locally (not live on beta yet)</mark>\
 <mark style="color:orange;">**Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in progress</mark>\
 **Black:** not started yet
