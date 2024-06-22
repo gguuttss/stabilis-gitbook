@@ -13,23 +13,27 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 **General:**
 
 * Terms and conditions point to a website that doesn't exist \[2]
-* <mark style="color:green;">Metadata for Liquidation Receipt is wrong \[2]</mark>
+  * Note: will come at Mainnet launch
+* <mark style="color:blue;">Metadata for Liquidation Receipt is wrong \[2]</mark>
+* <mark style="color:blue;">Loan receipts aren't burnable after being closed manually \[8]</mark>
+* Don't allow clicking buttons when still waiting for a transaction's approval \[6]
+* Don't allow too many decimals input if token divisibility doesn't allow it \[7]
 
 **Swap page:**
 
-* <mark style="color:green;">APY tooltip not visible on mobile \[3]</mark>
-* <mark style="color:green;">Interest rate, market price & internal price not visible on mobile \[1]</mark>
-* <mark style="color:green;">APY value showing as "-" \[4]</mark>
+* <mark style="color:blue;">APY tooltip not visible on mobile \[3]</mark>
+* <mark style="color:blue;">Interest rate, market price & internal price not visible on mobile \[1]</mark>
+* <mark style="color:blue;">APY value showing as "-" \[4]</mark>
 
 **Borrow page:**
 
-* <mark style="color:green;">It is currently impossible to borrow at exactly 75% CR \[1]</mark>
+* <mark style="color:blue;">It is currently impossible to borrow at exactly 75% CR \[1]</mark>
 
 **Liquidations page:**
 
-* <mark style="color:green;">Disconnecting the wallet doesn't reset the liquidations widget properly \[5]</mark>
-* <mark style="color:green;">Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]</mark>
-* <mark style="color:green;">Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]</mark>
+* <mark style="color:blue;">Disconnecting the wallet doesn't reset the liquidations widget properly \[5]</mark>
+* <mark style="color:blue;">Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]</mark>
+* <mark style="color:blue;">Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]</mark>
 
 
 
@@ -39,7 +43,10 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 \[2] account\_rdx16xnyurvw7qnlhtes6y0ls0cyr6f7wsd5t85cf053y9nd4kh7nsp52y\
 \[3] account\_rdx128y2ju3qxz9mwkckzndzcxdl952aq684t38u3mn5swmgur9v00xuch\
 \[4] account\_rdx1292k5fgdu38chahut2n2hewdzftr7dean4snns4zs38zf52udvm22w\
-\[5] account\_rdx12y4szqpzkcng0p684rnzmc3x0t5pfn246zsh2x5hxf4uk7n4w2q3z0
+\[5] account\_rdx12y4szqpzkcng0p684rnzmc3x0t5pfn246zsh2x5hxf4uk7n4w2q3z0\
+\[6] account\_rdx128rsjruc9hasvg0yevyg8eet4vx7xtuh3hmlg26y83meggmktst7sj\
+\[7] account\_rdx12x7a4yy9jvefpajga86cjc5xrh57reakq2eeuq5v99cuuusm883el0\
+\[8] account\_rdx12x0wn50np75vt50kvapcuwkk4d2u2g77jxf5mx8tqukdrcclsxd8fv
 
 
 
