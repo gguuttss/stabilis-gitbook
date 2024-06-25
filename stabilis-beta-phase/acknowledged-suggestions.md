@@ -14,7 +14,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 
 * <mark style="color:blue;">Warn user when input will make transaction fail / don't allow them to input when transaction will fail \[1]</mark>
 * <mark style="color:blue;">Add total market cap of STAB on protocol overview \[9]</mark>
-* <mark style="color:green;">Add protocol's total collateral and total debt to protocol overview \[9]</mark>
+* <mark style="color:blue;">Add protocol's total collateral and total debt to protocol overview \[9]</mark>
 * <mark style="color:blue;">Specify interest rate as APY or APR \[9]</mark>
 * <mark style="color:blue;">Disable buttons when actions aren't possible \[4]</mark>
 * <mark style="color:blue;">Show toast notifications for submitted / completed actions \[1]</mark>
@@ -54,7 +54,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 
 **Manage loans page:**
 
-* <mark style="color:orange;">Make closed / liquidated loan receipts burnable \[1]</mark>
+* <mark style="color:blue;">Make closed / liquidated loan receipts burnable \[1]</mark>
 * <mark style="color:blue;">Add preview of added/removed collateral \[1]</mark>
 * <mark style="color:blue;">Add “In Danger” loan status, for loans that haven’t been marked but have a CR < MCR \[1]</mark>
 * Add ability to close multiple loans at a once \[2]
