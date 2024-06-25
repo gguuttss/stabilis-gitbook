@@ -30,6 +30,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
   * Note: awesome idea, but will need some time.
 * Additional language support \[13]
   * Note: good idea, but will not come soon, as it's a bit of a waste to translate things that are bound to change anyway.
+* Add a STAB/USD chart somewhere \[17]
 * <mark style="color:blue;">Add liquidation timestamp to Liquidation Receipt NFTs. \[3]</mark>
 
 **Swap page:**
@@ -77,7 +78,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add tiles / photo's of front-end pages in relevant docs sections. \[3]
   * Note: very good idea, but will have to wait a bit for the front-end to become more polished so it doesn't have to be changed any time soon.
 * Add documentation about protocol related NFTs such as the liquidation receipts or marker receipts. \[3]
-* Modify transaction manifest for flash loans to also deposit leftover tokens afterwards. \[3]
+* <mark style="color:blue;">Modify transaction manifest for flash loans to also deposit leftover tokens afterwards. \[3]</mark>
 * Add glossary with abbreviations / key terms. \[3]
 * Add team section \[9]
 * <mark style="color:blue;">Add documentation on STAB interest rate and what its uses are \[10]</mark>
@@ -116,6 +117,7 @@ _\* If the corresponding wallet address is displayed under another item, other s
 \[14] account\_rdx16yrtrg3xlfrzjql2yzm8z7ry2enf04ztytncsp8r3w6e56zpyygwgw\
 \[15] account\_rdx128vqe497z8a4j05f7d4lz0thmnra5rpp6c5dhqzzesxscjvwvjefml\
 \[16] account\_rdx129dxwqp8fhax72d5r9rynv7ywj0qy0w9awucer87vmht730492aw3s\
+\[17] account\_rdx12xynj8sv6xpmyg2mr00jgsxzu2aeaaekpn83jj2j234f902y9q9u9l\
 
 
 
