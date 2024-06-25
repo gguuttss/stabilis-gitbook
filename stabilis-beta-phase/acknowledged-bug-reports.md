@@ -34,7 +34,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 * <mark style="color:blue;">Disconnecting the wallet doesn't reset the liquidations widget properly \[5]</mark>
 * <mark style="color:blue;">Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]</mark>
 * <mark style="color:blue;">Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]</mark>
-* <mark style="color:blue;">Liquidate without marker appends an extra 1 to the to be skipped loans \[1]</mark>
+* <mark style="color:blue;">Liquidate without marker appends an extra 1 to the amount of loans to skip \[1]</mark>
 
 
 
