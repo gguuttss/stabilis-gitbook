@@ -47,6 +47,12 @@ CALL_METHOD
   Bucket("receipt_bucket")
   Bucket("stab_bucket")
 ;
+
+CALL_METHOD
+  Address("<your_account_address>")
+  "deposit_batch"
+  Expression("ENTIRE_WORKTOP")
+;
 ```
 
 

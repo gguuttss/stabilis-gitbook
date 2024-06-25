@@ -17,8 +17,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 * <mark style="color:blue;">Metadata for Liquidation Receipt is wrong \[2]</mark>
 * <mark style="color:blue;">Loan receipts aren't burnable after being closed manually \[8]</mark>
 * Don't allow clicking buttons when still waiting for a transaction's approval \[6]
-* Don't allow too many decimals input if token divisibility doesn't allow it \[7]
-* "Confirm in wallet" doesn't disappear after&#x20;
+* <mark style="color:blue;">Don't allow too many decimals input if token divisibility doesn't allow it \[7]</mark>
 
 **Swap page:**
 

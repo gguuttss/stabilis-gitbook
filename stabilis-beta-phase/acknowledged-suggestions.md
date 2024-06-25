@@ -51,6 +51,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
   * Note: LSUs are already useable, what other collaterals would you like to see?
 * Add price at which loan can be liquidated \[14]
   * Note: is difficult, as the interest rate makes this variable.
+* Don't allow borrowing < 1 STAB \[16]
 
 **Manage loans page:**
 
@@ -113,6 +114,7 @@ _\* If the corresponding wallet address is displayed under another item, other s
 \[13] account\_rdx128s444ql25s5xuhups24tfu46a2wm79u4q6mlf0ntp699xdle4uek9\
 \[14] account\_rdx16yrtrg3xlfrzjql2yzm8z7ry2enf04ztytncsp8r3w6e56zpyygwgw\
 \[15] account\_rdx128vqe497z8a4j05f7d4lz0thmnra5rpp6c5dhqzzesxscjvwvjefml\
+\[16] account\_rdx129dxwqp8fhax72d5r9rynv7ywj0qy0w9awucer87vmht730492aw3s\
 
 
 
