@@ -77,6 +77,7 @@ Have a suggestion that isn't listed yet? Send it in [here](https://docs.google.c
 * Add tiles / photo's of front-end pages in relevant docs sections. \[3]
   * Note: very good idea, but will have to wait a bit for the front-end to become more polished so it doesn't have to be changed any time soon.
 * Add documentation about protocol related NFTs such as the liquidation receipts or marker receipts. \[3]
+* Modify transaction manifest for flash loans to also deposit leftover tokens afterwards. \[3]
 * Add glossary with abbreviations / key terms. \[3]
 * Add team section \[9]
 * <mark style="color:blue;">Add documentation on STAB interest rate and what its uses are \[10]</mark>
