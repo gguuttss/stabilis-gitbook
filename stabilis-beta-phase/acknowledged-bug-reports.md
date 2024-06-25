@@ -18,6 +18,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 * <mark style="color:blue;">Loan receipts aren't burnable after being closed manually \[8]</mark>
 * Don't allow clicking buttons when still waiting for a transaction's approval \[6]
 * Don't allow too many decimals input if token divisibility doesn't allow it \[7]
+* "Confirm in wallet" doesn't disappear after&#x20;
 
 **Swap page:**
 
@@ -34,6 +35,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 * <mark style="color:blue;">Disconnecting the wallet doesn't reset the liquidations widget properly \[5]</mark>
 * <mark style="color:blue;">Front-end doesn't reset after liquidating without a marker (you need to reload the page) \[1]</mark>
 * <mark style="color:blue;">Liquidation marker shows it's useable even when 5 minutes haven’t passed, and thus isn’t \[1]</mark>
+* <mark style="color:blue;">Liquidate without marker appends an extra 1 to the to be skipped loans \[1]</mark>
 
 
 
@@ -53,7 +55,7 @@ Found a bug that isn't listed yet? Send it in [here](https://docs.google.com/for
 **Color meanings:**
 
 \
-<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">bug fixed (had to leave while deploying... will be live soon)</mark>\
-<mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">bug fixed locally (not live on beta yet)</mark>\
+<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">bug fixed</mark>\
+<mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">bug fixed locally</mark>\
 <mark style="color:orange;">**Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in progress</mark>\
 **Black:** not started yet

@@ -119,7 +119,7 @@ _\* If the corresponding wallet address is displayed under another item, other s
 
 **Color meanings:**\
 \
-<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">suggestion implemented (had to leave while deploying... will be live soon)</mark>\
-<mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">suggestion implemented locally (not live on beta yet)</mark>\
+<mark style="color:blue;">**Blue:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">suggestion implemented</mark>\
+<mark style="color:green;">**Green:**</mark> <mark style="color:green;"></mark><mark style="color:green;">suggestion implemented locally</mark>\
 <mark style="color:orange;">**Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">in progress</mark>\
 **Black:** not started yet
