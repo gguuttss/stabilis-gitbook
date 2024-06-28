@@ -29,6 +29,7 @@
 * [📩 Feedback reward program](stabilis-beta-phase/feedback-reward-program.md)
 * [🤝 Acknowledged suggestions](stabilis-beta-phase/acknowledged-suggestions.md)
 * [🐞 Acknowledged bugs](stabilis-beta-phase/acknowledged-bug-reports.md)
+* [🌏 Roadmap: towards stability](stabilis-beta-phase/roadmap-towards-stability.md)
 
 ## Technical information
 
